@@ -1,0 +1,34 @@
+D:\SyncFusion\Phase-V\Online Medical store\obj\Debug\net7.0\Online Medical store.csproj.AssemblyReference.cache
+D:\SyncFusion\Phase-V\Online Medical store\obj\Debug\net7.0\Online Medical store.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Phase-V\Online Medical store\obj\Debug\net7.0\Online Medical store.AssemblyInfoInputs.cache
+D:\SyncFusion\Phase-V\Online Medical store\obj\Debug\net7.0\Online Medical store.AssemblyInfo.cs
+D:\SyncFusion\Phase-V\Online Medical store\obj\Debug\net7.0\Online Medical store.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Phase-V\Online Medical store\obj\Debug\net7.0\Online Medical store.MvcApplicationPartsAssemblyInfo.cs
+D:\SyncFusion\Phase-V\Online Medical store\obj\Debug\net7.0\Online Medical store.MvcApplicationPartsAssemblyInfo.cache
+D:\SyncFusion\Phase-V\Online Medical store\bin\Debug\net7.0\appsettings.Development.json
+D:\SyncFusion\Phase-V\Online Medical store\bin\Debug\net7.0\appsettings.json
+D:\SyncFusion\Phase-V\Online Medical store\bin\Debug\net7.0\tsconfig.json
+D:\SyncFusion\Phase-V\Online Medical store\bin\Debug\net7.0\Online Medical store.exe
+D:\SyncFusion\Phase-V\Online Medical store\bin\Debug\net7.0\Online Medical store.deps.json
+D:\SyncFusion\Phase-V\Online Medical store\bin\Debug\net7.0\Online Medical store.runtimeconfig.json
+D:\SyncFusion\Phase-V\Online Medical store\bin\Debug\net7.0\Online Medical store.dll
+D:\SyncFusion\Phase-V\Online Medical store\bin\Debug\net7.0\Online Medical store.pdb
+D:\SyncFusion\Phase-V\Online Medical store\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\SyncFusion\Phase-V\Online Medical store\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\SyncFusion\Phase-V\Online Medical store\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SyncFusion\Phase-V\Online Medical store\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SyncFusion\Phase-V\Online Medical store\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SyncFusion\Phase-V\Online Medical store\obj\Debug\net7.0\staticwebassets\msbuild.Online Medical store.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SyncFusion\Phase-V\Online Medical store\obj\Debug\net7.0\staticwebassets\msbuild.build.Online Medical store.props
+D:\SyncFusion\Phase-V\Online Medical store\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Online Medical store.props
+D:\SyncFusion\Phase-V\Online Medical store\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Online Medical store.props
+D:\SyncFusion\Phase-V\Online Medical store\obj\Debug\net7.0\staticwebassets.pack.json
+D:\SyncFusion\Phase-V\Online Medical store\obj\Debug\net7.0\staticwebassets.build.json
+D:\SyncFusion\Phase-V\Online Medical store\obj\Debug\net7.0\staticwebassets.development.json
+D:\SyncFusion\Phase-V\Online Medical store\obj\Debug\net7.0\scopedcss\bundle\Online Medical store.styles.css
+D:\SyncFusion\Phase-V\Online Medical store\obj\Debug\net7.0\Online Medical store.csproj.CopyComplete
+D:\SyncFusion\Phase-V\Online Medical store\obj\Debug\net7.0\Online Medical store.dll
+D:\SyncFusion\Phase-V\Online Medical store\obj\Debug\net7.0\refint\Online Medical store.dll
+D:\SyncFusion\Phase-V\Online Medical store\obj\Debug\net7.0\Online Medical store.pdb
+D:\SyncFusion\Phase-V\Online Medical store\obj\Debug\net7.0\Online Medical store.genruntimeconfig.cache
+D:\SyncFusion\Phase-V\Online Medical store\obj\Debug\net7.0\ref\Online Medical store.dll

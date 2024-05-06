@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical Store</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="homePage">
+        <button type="button" onclick="signInPage()">SIGNIN</button>
+        <button type="button" onclick="signUpPage()">SIGNUP</button>
+    </div>
+    <div id="signInPage">
+        <label>User E-Mail</label><br>
+        <input type="email" id="existingUseremail" placeholder="E-Mail"><br>
+        <label for="password">Password</label><br>
+        <input type="password" id="password" placeholder="Password"><br>
+        <button type="submit" id="signIn" onclick="signIn()">submit</button><br>
+        <label id="availableUser"></label>
+    </div>
+    <div id="signUpPage">
+        <h3>Hi!!! <br> let's Sign Up </h3>
+        <label for="newUserName">USER NAME</label><br>
+        <input type="text" id="newUserName" onkeyup="CheckUserName('newUserName')" placeholder="Enter your name"><br>
+        <label id="newUserNameMessage"></label><br>
+        <label for="newUserAge">AGE</label><br>
+        <input type="number" id="newUserAge" onkeyup="CheckUserAge('newUserAge')"
+            placeholder="Enter your current Age"><br>
+        <label id="newUserAgeMessage"></label><br>
+        <label for="newUserMobile">MOBILE NUMBER</label><br>
+        <input type="text" id="newUserMobile" onkeyup="Checkusername('newUserMobile')"
+            placeholder="Enter your Mobile Number"><br>
+        <label id="newUserMobileMessage"></label><br>
+        <label for="newUserEmail">EMAIL</label><br>
+        <input type="text" id="newUserEmail" onkeyup="Checkusername('newUserEmail')"
+            placeholder="Enter your Email ID"><br>
+        <label id="newUserEmailMessage"></label><br>
+        <label for="password">PASSWORD</label><br>
+        <input type="password" id="password" onkeyup="Checkusername('password')" placeholder="Enter your Password"><br>
+        <label id="passwordMessage"></label><br>
+        <label for="cPassword">CONFIRM PASSWORD</label><br>
+        <input type="password" id="cPassword" onkeyup="Checkusername('cPassword')"
+            placeholder="Re - enter your Password"><br>
+        <label id="cPasswordMessage"></label><br>
+        <button type="button" onclick="signUp()" id="newSignUp">SUBMIT</button>
+    </div>
+    <div id="mainPage">
+        <label id="greet"></label><button onclick="displayHomePage()">Go Home</button>
+        <button onclick="medicineList()">Medicine List</button>
+        <button onclick="purchaseMedince()">Purchase Medicine</button>
+        <button onclick="historyDisplay()">Purchase History</button>
+        <button onclick="CancelOderPage()">Cancel Oder</button>
+        <button onclick="rechargePage()">Recharge</button>
+        <button onclick="ShowBalance()">ShowBalance</button>
+        <button onclick="LogOut()">LOG OUT</button>
+    </div>
+    <div id="historyDisplay">
+
+        <h3>Order History</h3>
+        <button onclick="mainPage()">MainPage</button>
+        <table id="dataTable4" border="1">
+            <thead>
+                <tr>
+                    <th>OderID</th>
+                    <th>User ID</th>
+                    <th>Medicine Name</th>
+                    <th>Medicine Count</th>
+                    <th>Expriy Date</th>
+                    <th>Total Amount</th>
+                    <th>Oder Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Table data will be inserted here -->
+            </tbody>
+        </table>
+    </div>
+    <div id="medicineList">
+        <form id="form">
+            <label for="quantity">Quantity Avialable</label>
+            <input type="number" id="quantity" name="quantity" required>
+            <label for="expiryDate">Expiry Date</label>
+            <input type="text" id="expiryDate" name="expiryDate" required><p>("Type - MM/dd/yyyy")</p><br><br>
+            <button type="submit" id="submitButton" onclick="SubmitEdit">Submit</button><br><br>
+            <table id="dataTable1" border="1">
+                <thead>
+                    <tr>
+                        <th>Medicine Name</th>
+                        <th>Quantity Avialable</th>
+                        <th>Expiry Date</th>
+                        <th>Price per tablet</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Table data will be inserted here -->
+                </tbody>
+            </table>
+        </form>
+        <button onclick="mainPage()">MainPage</button>
+    </div>
+    <div id="medicineList1">
+        <table id="dataTable6" border="1">
+            <thead>
+                <tr>
+                    <th>Medicine Name</th>
+                    <th>Quantity Avialable</th>
+                    <th>Expiry Date</th>
+                    <th>Price per tablet</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Table data will be inserted here -->
+            </tbody>
+        </table>
+        <button onclick="mainPage()">MainPage</button>
+    </div>
+    <div id="medicinePage">
+
+        <h2>Medicine Page</h2>
+        <label id="greet"></label>
+        <button onclick="displayHomePage()">Go Home</button><br>
+        <h3>Selected Medicine Details</h3>
+        <label id="medicineInfo"> </label><br>
+        <br>
+        <div id="requiredCount">
+            <label>Required Count </label>
+            <input type="number" id="medicineRequiredCount"><button onclick="buyMedicine()">Add to Cart</button><br>
+            <label id="templist">
+                <table id="dataTable3" border="1">
+                    <thead>
+                        <tr>
+                            <th>Medicine Name</th>
+                            <th>Quantity needed</th>
+                            <th>Expriy Date</th>
+                            <th>Total Amount</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Table data will be inserted here -->
+                    </tbody>
+                </table>
+            </label>
+            <button id="buy" onclick="buy()">BUY</button>
+        </div>
+    </div>
+    <div id="CancelOderPage">
+        <h3>Cancel Oders</h3>
+        <button onclick="mainPage()">MainPage</button>
+        <table id="dataTable5" border="1">
+            <thead>
+                <tr>
+                    <th>OderID</th>
+                    <th>User ID</th>
+                    <th>Medicine Name</th>
+                    <th>Medicine Count</th>
+                    <th>Total Amount</th>
+                    <th>Expriy Date</th>
+                    <th>Oder Status</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Table data will be inserted here -->
+            </tbody>
+        </table>
+        </label>
+    </div>
+    <div id="rechargePage">
+        <h3>Your Wallet</h3>
+        <label>Please Enter the amount to add</label>
+        <input type="number" id="addAmount">
+        <button onclick="Recharge()">Recharge</button><br><br>
+        <button onclick="mainPage()">MainPage</button>
+    </div>
+    <script src="dist/script.js" defer></script>
+
+</body>
+
+</html>

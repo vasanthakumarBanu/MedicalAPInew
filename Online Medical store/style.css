@@ -1,0 +1,31 @@
+#homePage{
+    display: block;
+}
+
+#signInPage{
+    display: none;
+}
+#signUpPage{
+    display: none;
+}
+#medicineList{
+    display: none;
+}
+#mainPage{
+    display: none;
+}
+#historyDisplay{
+    display: none;
+}
+#medicinePage{
+    display: none;
+}
+#CancelOderPage{
+    display: none;
+}
+#rechargePage{
+    display: none;
+}
+#medicineList1{
+    display: none;
+}

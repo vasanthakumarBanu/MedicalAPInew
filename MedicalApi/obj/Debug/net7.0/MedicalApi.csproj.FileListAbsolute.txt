@@ -1,0 +1,66 @@
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\bin\Debug\net7.0\appsettings.Development.json
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\bin\Debug\net7.0\appsettings.json
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\bin\Debug\net7.0\MedicalApi.exe
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\bin\Debug\net7.0\MedicalApi.deps.json
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\bin\Debug\net7.0\MedicalApi.runtimeconfig.json
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\bin\Debug\net7.0\MedicalApi.dll
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\bin\Debug\net7.0\MedicalApi.pdb
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\obj\Debug\net7.0\MedicalApi.csproj.AssemblyReference.cache
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\obj\Debug\net7.0\MedicalApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\obj\Debug\net7.0\MedicalApi.AssemblyInfoInputs.cache
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\obj\Debug\net7.0\MedicalApi.AssemblyInfo.cs
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\obj\Debug\net7.0\MedicalApi.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\obj\Debug\net7.0\MedicalApi.MvcApplicationPartsAssemblyInfo.cs
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\obj\Debug\net7.0\MedicalApi.MvcApplicationPartsAssemblyInfo.cache
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\obj\Debug\net7.0\staticwebassets\msbuild.MedicalApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\obj\Debug\net7.0\staticwebassets\msbuild.build.MedicalApi.props
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MedicalApi.props
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MedicalApi.props
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\obj\Debug\net7.0\scopedcss\bundle\MedicalApi.styles.css
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\obj\Debug\net7.0\MedicalApi.csproj.CopyComplete
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\obj\Debug\net7.0\MedicalApi.dll
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\obj\Debug\net7.0\refint\MedicalApi.dll
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\obj\Debug\net7.0\MedicalApi.pdb
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\obj\Debug\net7.0\MedicalApi.genruntimeconfig.cache
+D:\SyncFusion\Phase-V\OnlineMedicalStore\MedicalApi\obj\Debug\net7.0\ref\MedicalApi.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\bin\Debug\net7.0\appsettings.json
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\bin\Debug\net7.0\MedicalApi.exe
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\bin\Debug\net7.0\MedicalApi.deps.json
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\bin\Debug\net7.0\MedicalApi.runtimeconfig.json
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\bin\Debug\net7.0\MedicalApi.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\bin\Debug\net7.0\MedicalApi.pdb
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\obj\Debug\net7.0\MedicalApi.csproj.AssemblyReference.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\obj\Debug\net7.0\MedicalApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\obj\Debug\net7.0\MedicalApi.AssemblyInfoInputs.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\obj\Debug\net7.0\MedicalApi.AssemblyInfo.cs
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\obj\Debug\net7.0\MedicalApi.csproj.CoreCompileInputs.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\obj\Debug\net7.0\MedicalApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\obj\Debug\net7.0\MedicalApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\obj\Debug\net7.0\staticwebassets\msbuild.MedicalApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\obj\Debug\net7.0\staticwebassets\msbuild.build.MedicalApi.props
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MedicalApi.props
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MedicalApi.props
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\obj\Debug\net7.0\scopedcss\bundle\MedicalApi.styles.css
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\obj\Debug\net7.0\MedicalApi.csproj.CopyComplete
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\obj\Debug\net7.0\MedicalApi.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\obj\Debug\net7.0\refint\MedicalApi.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\obj\Debug\net7.0\MedicalApi.pdb
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\obj\Debug\net7.0\MedicalApi.genruntimeconfig.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\MedicalApi\obj\Debug\net7.0\ref\MedicalApi.dll
